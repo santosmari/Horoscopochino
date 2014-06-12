@@ -1,0 +1,140 @@
+@charset "utf-8";
+/* CSS Document */
+#content
+{	width:96%;
+	height:600px;
+	font-size:15px;
+	border-style:ridge;
+	border-width:thick;
+	border-color: #309;
+	background-color: #ccffff;}
+	
+#introhoroscopo
+{width:60%;height:500px;vertical-align:middle;text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+#divhoroscopo1 {width:60%;height:250px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+#divhoroscopo2 {width:60%;height:320px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	#divhoroscopo3 {width:60%;height:310px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	#divhoroscopo4 {width:60%;height:310px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	#divhoroscopo5 {width:60%;height:310px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	#divhoroscopo6 {width:60%;height:330px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	#divhoroscopo7 {width:60%;height:310px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	#divhoroscopo8 {width:60%;height:350px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	#divhoroscopo9 {width:60%;height:270px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	#divhoroscopo10 {width:60%;height:320px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	#divhoroscopo11 {width:60%;height:310px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+	#divhoroscopo12 {width:60%;height:330px;
+	color:#CCFFFFF;
+background-color:#CCFFFFF;
+	font-size:15px;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+#divrata
+{width:90%;
+	height:550px;
+	font-size:15px;
+	border-style:ridge;
+	border-width:thick;
+	border-color: #309;
+	background-color: #0CC;
+	vertical-align:middle;
+	text-align:justify;
+	text-height:font-size;
+	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+	margin:5px;}
+#divpapel {background-color:#0CF ; width:500px ; margin-left:50px; -webkit-border-top-left-radius:5px; -webkit-border-top-right-radius:5px;-webkit-border-bottom-left-radius:5px;
+-webkit-border-bottom-right-radius:5px;}
+#divrata1 {width:95% ; margin: 10px ; background-color: #33F ; float:left }
+#divsubtitulo1 {width:200px ; margin: 10px ;height:200px ; background-color: #CF6 ; float:left }
+#divsubtitulo2 {width:200px ; margin: 10px ;height:200px ; background-color: #0F9 ; float:left }
+#divsubtitulo3 {width:60% ; margin: 10px ;height:500px ; background-color: #FFC  ; float:left }
+#divtexto1 { width:180px ; margin-left:5px ; margin-right:5px ; background-color: #CFF }
+#divtexto2 { width:180px ; margin-left:5px; margin-right:5px ; background-color: #9C0 }
+#divtexto3 { width:180px ; margin-left:30px; margin-right:5px ; background-color:#F9C }
+
+
+#divlalista {width:80%;
+	height:200px;
+	text-align:justify;
+	color:#000;
+	font-size:15px;
+	text-height:font-size;
+	font-family:Tahoma, Geneva, sans-serif;
+	margin-left:10%;}
+	#divlista1 {background-color: #06C ; width:800px ; margin-left:50px; -webkit-border-top-left-radius:10px;
+-webkit-border-top-right-radius:10px;
+-webkit-border-bottom-left-radius:10px;
+-webkit-border-bottom-right-radius:10px;}
+
+	
+#divlist1 { width:150px ; height:50px ;margin-left:5px ; margin-right:5px ; background-color: #3C9 }
+#divlist2 { width:200px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #9FF }
+#divlist3 { width:150px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #F39}
+#divlist4 { width:150px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #F9F }
+#divlist5 { width:250px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #CFF}
+#divlist6 { width:250px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #3FF }
+#divlist7 { width:150px ; height:50px ;margin-left:5px ; margin-right:5px ; background-color: #3C9 }
+#divlist8 { width:200px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #9FF }
+#divlist9 { width:150px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #F39}
+#divlist10 { width:150px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #F9F }
+#divlist11 { width:250px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #CFF}
+#divlist12 { width:250px ; height:50px ; margin-left:5px; margin-right:5px ; background-color: #3FF }
